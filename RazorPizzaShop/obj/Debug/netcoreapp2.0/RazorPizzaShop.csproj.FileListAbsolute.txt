@@ -1,0 +1,10 @@
+c:\Users\Administrator\Desktop\RazorPizzaShop\bin\Debug\netcoreapp2.0\RazorPizzaShop.deps.json
+c:\Users\Administrator\Desktop\RazorPizzaShop\bin\Debug\netcoreapp2.0\RazorPizzaShop.runtimeconfig.json
+c:\Users\Administrator\Desktop\RazorPizzaShop\bin\Debug\netcoreapp2.0\RazorPizzaShop.runtimeconfig.dev.json
+c:\Users\Administrator\Desktop\RazorPizzaShop\bin\Debug\netcoreapp2.0\RazorPizzaShop.dll
+c:\Users\Administrator\Desktop\RazorPizzaShop\bin\Debug\netcoreapp2.0\RazorPizzaShop.pdb
+c:\Users\Administrator\Desktop\RazorPizzaShop\obj\Debug\netcoreapp2.0\RazorPizzaShop.csproj.CoreCompileInputs.cache
+c:\Users\Administrator\Desktop\RazorPizzaShop\obj\Debug\netcoreapp2.0\RazorPizzaShop.AssemblyInfoInputs.cache
+c:\Users\Administrator\Desktop\RazorPizzaShop\obj\Debug\netcoreapp2.0\RazorPizzaShop.AssemblyInfo.cs
+c:\Users\Administrator\Desktop\RazorPizzaShop\obj\Debug\netcoreapp2.0\RazorPizzaShop.dll
+c:\Users\Administrator\Desktop\RazorPizzaShop\obj\Debug\netcoreapp2.0\RazorPizzaShop.pdb

@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+ViewData["Title"] = "Pizzaria Mamamia";
+}
+<div> 
+  <h1>Papa Bob's Pizzaria Mamamia</h1>
+  <p>Mamamia - Pizza to Code by</p>
+</div>
+<hr>
+<form method="POST">
+  <input type="checkbox" name="Sausages" value="Sausages">Sausages<br>
+  <input type="checkbox" name="Pepperoni" value="Pepperoni">Pepperoni<br>
+  <input type="checkbox" name="Onions" value="Onions">Onions<br>
+  <input type="checkbox" name="GreenPeppers" value="Green Peppers">Green Peppers<br>
+  <h2>Deliver to:</h2>
+  <label for="Name">Name:</label><br>
+  <input type="text" name="Name"><br>
+  <label for="Address">Address:</label><br>
+  <input type="text" name="Address"><br>
+  <label for="Zip">Zip:</label><br>
+  <input type="text" name="Zip"><br>
+  <label for="Phone">Phone:</label><br>
+  <input type="text" name="Phone">
+  <h2>Payment:</h2>
+  <input type="radio" name="Cash"><label for="Cash">Cash</label><br>
+  <input type="radio" name="Credit"><label for="Credit">Credit</label><br>
+  <input type="submit" value="Order">
+</form>
+<h2>Total Cost:</h2>
+@Model.Sausages
+@Model.Pepperoni
+@Model.Onions
+@Model.GreenPeppers
+@Model.Name
+@Model.Address
+@Model.Zip
+@Model.Phone
+@Model.Cash
+@Model.Credit
